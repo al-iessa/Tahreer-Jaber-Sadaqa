@@ -1,0 +1,27 @@
+{
+  "name": "صدقة جارية عن روح تحرير جابر حسن",
+  "short_name": "صدقة جارية",
+  "description": "اهدِ ثواب التسبيح والدعاء وقراءة القرآن إلى روح المرحومة تحرير جابر حسن",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf6ec",
+  "theme_color": "#1f5346",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
